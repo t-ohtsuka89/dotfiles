@@ -1,0 +1,3 @@
+alias mv='mv -v'
+alias rm='rm -i -v'
+alias cp='cp -v'
