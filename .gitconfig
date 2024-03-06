@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = main
+[merge]
+	ff = false
+[pull]
+	ff = only
+[fetch]
+    prune = true
