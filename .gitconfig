@@ -6,3 +6,5 @@
 	ff = only
 [fetch]
     prune = true
+[core]
+	ignorecase = false
